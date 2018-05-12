@@ -1,0 +1,8 @@
+#marhranj
+korisnik=Marijan
+grad=Slatina
+port=8000
+maks.broj.zahtjeva.cekanje=5
+maks.broj.radnih.dretvi=5
+datoteka.evidencije.rada=NWTiS_marhranj_evidencija_rada.bin
+interval.za.serijalizaciju=60
